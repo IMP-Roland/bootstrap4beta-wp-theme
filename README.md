@@ -12,4 +12,4 @@
 <li>jQuery v1.11.3 from <a href="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" target="_blank" rel="noopener">CDN</a></li>
 </ul>
 <h3>Displaying menu</h3>
-<p>Using WP Bootstrap Navwalker for navigation: <a href="https://github.com/wp-bootstrap/wp-bootstrap-navwalker" target="_blank" rel="noopener">LINK</a></p>
+<p>Using <a href="https://github.com/wp-bootstrap/wp-bootstrap-navwalker" target="_blank" rel="noopener">WP Bootstrap Navwalker</a> for navigation.</p>
