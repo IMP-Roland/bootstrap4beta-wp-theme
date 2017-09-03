@@ -6,7 +6,7 @@
 <h3>Bootstrap</h3>
 <p>Bootstrap 4 beta is available and is now the default branch offered at the GitHub repo and on <a href="https://getbootstrap.com">GetBootstrap</a>. A working version of the walker for Bootstrap 4 can be found in the <code>v4</code> branch.</p>
 <h2>Navigation structure and style</h2>
-<p>Using <a href="https://startbootstrap.com/template-overviews/bare/" target="_blank" rel="noopener">Bare</a> An unstlyed starter template for Bootstrap 4 with predefined file paths for easy development from <a href="https://startbootstrap.com/" target="_blank" rel="noopener">Start Bootstrap</a>.</p>
+<p>Using <a href="https://startbootstrap.com/template-overviews/bare/" target="_blank" rel="noopener">Bare</a>, an unstlyed starter template for Bootstrap 4 with predefined file paths for easy development from <a href="https://startbootstrap.com/" target="_blank" rel="noopener">Start Bootstrap</a>.</p>
 <h3>Page speed optimalization</h3>
 <p>Theme loads assets(jQuery, Bootstrap) from CDN.</p>
 <ul>
