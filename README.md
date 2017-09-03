@@ -1,5 +1,7 @@
 # bootstrap4beta-wp-theme
 Wordpress theme based on Bootstrap v4.0.0-beta
+<h2>Usage</h2>
+Download the theme, upload to Wordpress site and active the theme.
 <h3>Page speed optimalization</h3>
 Theme loads assets(jQuery, Bootstrap) from CDN<br><br>
 <ul>
