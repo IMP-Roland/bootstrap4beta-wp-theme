@@ -1,7 +1,7 @@
 # bootstrap4beta-wp-theme
 <p>Wordpress theme based on <a href="https://getbootstrap.com">Bootstrap</a> <code>v4.0.0-beta</code>.</p>
 <h2>Usage</h2>
-<p>Download the theme, upload to Wordpress site and active the theme.</p>
+<p>Download the theme, upload to Wordpress site and make the theme active.</p>
 <h2>Notes</h2>
 <h3>Bootstrap</h3>
 <p>Bootstrap 4 beta is available and is now the default branch offered at the GitHub repo and on <a href="https://getbootstrap.com">GetBootstrap</a>. A working version of the walker for Bootstrap 4 can be found in the <code>v4</code> branch.</p>
