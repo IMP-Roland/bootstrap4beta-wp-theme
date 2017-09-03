@@ -1,0 +1,14 @@
+/*
+Theme Name: Boostrap v4.0.0-beta
+Theme URI: https://www.bwebdesign.hu
+Author: Roland Bende
+Author URI: https://www.bwebdesign.hu
+Description: A basic theme using the Bootstrap framework. Build responsive, mobile-first projects on the web with the world's most popular front-end component library. Plugin depedencies: jQuery. Currently v4.0.0-beta
+Version: 1.0
+Text Domain: bootstrap
+*/
+
+#content { margin-top: 3.4rem; padding-bottom: 3.4rem; }
+#footer { background-color: #343a40!important; }
+#copyright { font-size: 0.8rem; color: #FFF; }
+#copyright p { margin-top: 1rem; }
